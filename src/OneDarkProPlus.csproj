@@ -70,8 +70,8 @@
       <Link>Resources\LICENSE.txt</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
-    <Content Include="..\3rd Party Licenses.md">
-      <Link>Resources\3rd Party Licenses.md</Link>
+    <Content Include="..\3rdPartyLicenses.md">
+      <Link>Resources\3rdPartyLicenses.md</Link>
       <IncludeInVSIX>true</IncludeInVSIX>
     </Content>
     <Content Include="Resources\Icon.png">
