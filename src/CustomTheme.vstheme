@@ -8565,7 +8565,7 @@
         <Background Type="CT_RAW" Source="FF3F3682" />
       </Color>
       <Color Name="AccentFillDefault">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="AccentFillDisabled">
         <Background Type="CT_RAW" Source="37000000" />
@@ -8870,7 +8870,7 @@
         <Background Type="CT_RAW" Source="FF495057" />
       </Color>
       <Color Name="EnvironmentIndicator">
-        <Background Type="CT_RAW" Source="FFABB2BF" />
+        <Background Type="CT_RAW" Source="FF1B1F23" />
       </Color>
       <Color Name="EnvironmentLayeredBackground">
         <Background Type="CT_RAW" Source="FF353941" />
@@ -8879,7 +8879,7 @@
         <Background Type="CT_RAW" Source="FF495057" />
       </Color>
       <Color Name="EnvironmentLogo">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF54A4E3" />
       </Color>
       <Color Name="StatusBarBackgroundFillBuilding">
         <Background Type="CT_RAW" Source="FF98C379" />
