@@ -10,9 +10,9 @@ namespace OneDarkProPlus
     {
         public const string Id = "OneDarkProPlus.e1e706e2-05d3-4da9-8754-652cd8ab65f4";
         public const string Name = "One Dark Pro Plus";
-        public const string Description = @"""One Dark Pro Plus"" theme, originally based on Adrian Wilczyński's One Dark Pro (https://github.com/AdrianWilczynski/OneDarkPro/), has been updated using the Visual Studio Color Theme Designer in Visual Studio 2026 to support the latest version and has been refined to more closely match the One Dark Pro theme by Binaryify for Visual Studio Code.";
+        public const string Description = @"One Dark Pro Plus theme, originally based on Adrian Wilczyński's One Dark Pro";
         public const string Language = "en-US";
-        public const string Version = "1.0";
+        public const string Version = "1.0.1";
         public const string Author = "T5ive";
         public const string Tags = "Atom, One Dark Pro, Theme";
         public const bool IsPreview = false;
