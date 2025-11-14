@@ -8742,7 +8742,7 @@
         <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SolidBackgroundFillBaseAlt">
-        <Background Type="CT_RAW" Source="FF21252B" />
+        <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SolidBackgroundFillQuaternary">
         <Background Type="CT_RAW" Source="FF282C34" />
@@ -8751,13 +8751,13 @@
         <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SolidBackgroundFillSecondary">
-        <Background Type="CT_RAW" Source="FF21252B" />
+        <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SolidBackgroundFillSenary">
         <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SolidBackgroundFillTertiary">
-        <Background Type="CT_RAW" Source="FF21252B" />
+        <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
       <Color Name="SubtleFillDisabled">
         <Background Type="CT_RAW" Source="00000000" />
@@ -11901,6 +11901,14 @@
       <Color Name="GrayText">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+    </Category>
+    <Category Name="EditorOverride" GUID="{656339d7-0e39-43e2-98aa-becc3f87ffa5}">
+      <Color Name="PopupText">
+        <Background Type="CT_RAW" Source="FFBDBDBD" />
+      </Color>
+      <Color Name="PopupBackground">
+        <Background Type="CT_RAW" Source="FF282C34" />
       </Color>
     </Category>
   </Theme>
