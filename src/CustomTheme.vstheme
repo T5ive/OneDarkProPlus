@@ -8595,7 +8595,7 @@
         <Background Type="CT_RAW" Source="FF221D46" />
       </Color>
       <Color Name="AccentTextFillTertiary">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="CardBackgroundFillDefault">
         <Background Type="CT_RAW" Source="FF3E4249" />
@@ -8864,7 +8864,7 @@
         <Background Type="CT_RAW" Source="FF3E4249" />
       </Color>
       <Color Name="EnvironmentBorder">
-        <Background Type="CT_RAW" Source="FF7160E8" />
+        <Background Type="CT_RAW" Source="FF0E639C" />
       </Color>
       <Color Name="EnvironmentBorderInactive">
         <Background Type="CT_RAW" Source="FF495057" />
