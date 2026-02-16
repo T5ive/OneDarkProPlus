@@ -9229,7 +9229,7 @@
 				<Background Type="CT_RAW" Source="FF282C34" />
 			</Color>
 			<Color Name="SurfaceBackgroundFillDefault">
-				<Background Type="CT_RAW" Source="FF282C34" />
+				<Background Type="CT_RAW" Source="FF21252B" />
 			</Color>
 		</Category>
 		<Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
