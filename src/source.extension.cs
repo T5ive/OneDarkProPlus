@@ -12,7 +12,7 @@ namespace OneDarkProPlus
         public const string Name = "One Dark Pro Plus";
         public const string Description = @"One Dark Pro Plus theme, originally based on Adrian Wilczyński's One Dark Pro";
         public const string Language = "en-US";
-        public const string Version = "1.0.4";
+        public const string Version = "1.0.6";
         public const string Author = "T5ive";
         public const string Tags = "Atom, One Dark Pro, Theme, One Dark Pro Plus";
         public const bool IsPreview = false;
