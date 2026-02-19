@@ -9148,7 +9148,7 @@
 				<Background Type="CT_RAW" Source="00000000" />
 			</Color>
 			<Color Name="SubtleFillSecondary">
-				<Background Type="CT_RAW" Source="0F000000" />
+				<Background Type="CT_RAW" Source="0FFFFFFF" />
 			</Color>
 			<Color Name="SubtleFillTertiary">
 				<Background Type="CT_RAW" Source="0A000000" />
@@ -9229,7 +9229,7 @@
 				<Background Type="CT_RAW" Source="FF282C34" />
 			</Color>
 			<Color Name="SurfaceBackgroundFillDefault">
-				<Background Type="CT_RAW" Source="FF21252B" />
+				<Background Type="CT_RAW" Source="FF282C34" />
 			</Color>
 		</Category>
 		<Category Name="ShellInternal" GUID="{5af241b7-5627-4d12-bfb1-2b67d11127d7}">
