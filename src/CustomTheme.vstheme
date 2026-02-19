@@ -9094,7 +9094,7 @@
 				<Background Type="CT_RAW" Source="FFFFFFFF" />
 			</Color>
 			<Color Name="FocusStrokeOuter">
-				<Background Type="CT_RAW" Source="E4000000" />
+				<Background Type="CT_RAW" Source="FF0E639C" />
 			</Color>
 			<Color Name="HyperlinkFillDisabled">
 				<Background Type="CT_RAW" Source="5C000000" />
